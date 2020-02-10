@@ -1,2 +1,2 @@
-# DDS
-Divaloper Design System
+# DDS - Divaloper Design System
+
